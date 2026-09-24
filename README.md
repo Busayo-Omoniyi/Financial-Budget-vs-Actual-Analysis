@@ -78,6 +78,8 @@ Provides an overview of business performance through key KPIs, Actual spending v
 ### Glossary
 <img width="911" height="513" alt="Glossary" src="https://github.com/user-attachments/assets/133502cf-8daa-4022-bb22-a38617e4bd80" />
 
+---
+
 ## Contact
 
 **Busayo Omoniyi Rebecca**
