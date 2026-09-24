@@ -54,6 +54,9 @@ This convention was used consistently throughout the analysis.
 (Key findings in Case study)
 
 ### Executive Dashboard
+
+Provides an overview of business performance through key KPIs, Actual spending vs budget trends, time & regional performance, and Department-category expense analysis.
+
 <img width="907" height="509" alt="Executive" src="https://github.com/user-attachments/assets/69b5b6fe-78e4-4bd1-abbb-63c56d1df9e6" />
 
 ### Time & Performance Dashboard
