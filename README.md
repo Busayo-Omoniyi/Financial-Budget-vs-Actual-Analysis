@@ -52,3 +52,28 @@ Therefore, Positive variance = Overspending
 This convention was used consistently throughout the analysis.
 
 (Key findings in Case study)
+
+### Executive Dashboard
+<img width="907" height="509" alt="Executive" src="https://github.com/user-attachments/assets/69b5b6fe-78e4-4bd1-abbb-63c56d1df9e6" />
+
+### Time & Performance Dashboard
+<img width="909" height="511" alt="Time   perf" src="https://github.com/user-attachments/assets/8c0be7e8-6ce7-4247-b468-eb80a5f91a70" />
+
+### Department & Expense drivers
+<img width="914" height="515" alt="Dept   Expense" src="https://github.com/user-attachments/assets/9f3fc7f1-373c-4bb4-a98e-8f9f056210d4" />
+
+### Regional Performance
+<img width="913" height="513" alt="Regional perf" src="https://github.com/user-attachments/assets/e5254df3-5464-4afe-9a9d-a8d569c82610" />
+
+### Glossary
+<img width="911" height="513" alt="Glossary" src="https://github.com/user-attachments/assets/133502cf-8daa-4022-bb22-a38617e4bd80" />
+
+## Contact
+
+**Busayo Omoniyi Rebecca**
+
+Email: hi.busayoniyi@gmail.com
+
+LinkedIn: linkedin.com/in/busayo-omoniyi
+
+Behance: behance.net/busayo-omoniyi
