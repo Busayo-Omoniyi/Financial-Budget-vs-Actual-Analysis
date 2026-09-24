@@ -56,6 +56,8 @@ This convention was used consistently throughout the analysis.
 
 **(Key findings in Case study)**
 
+---
+
 ## Dashboard Pages
 
 ### Executive Dashboard
